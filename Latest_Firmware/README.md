@@ -10,7 +10,7 @@ Latest firmware
 --------------------------------------------------
 - Fixed issue that might lockup controller when switching command sets in SRS
 
-Download here: https://github.com/tronicgr/Thanos4U-firmware/blob/main/Latest_Firmware/enc_Thanos4U_2560_4dof_v1_01_fix2.zip
+Download here: https://github.com/tronicgr/Thanos4U-firmware/blob/main/Latest_Firmware/enc_Thanos4U_2560_4dof_v1_01_fix5.zip
 
 
 ### AVRUBD utility preset for Thanos4U controllers:

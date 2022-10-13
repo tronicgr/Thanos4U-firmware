@@ -14,7 +14,7 @@ https://www.simracingstudio.com/forum/motion-profiles-actuator/thanos4u-and-sim-
 -
 
 ### USER MANUAL v1.04 for the Thanos4U controller
-https://github.com/tronicgr/Thanos4U-firmware/blob/main/Manual-and-Datasheets/Thanos4U%20user%20manual%20v1.05.pdf
+https://github.com/tronicgr/Thanos4U-firmware/blob/main/Manual-and-Datasheets/Thanos4U_user_manual_v1.05.pdf
 
 -
 

@@ -1,6 +1,11 @@
 Latest firmware
 
 
+-- enc_Thanos4U_2560_4dof_v1_01_fix6.zip 
+--------------------------------------------------
+- Now you can use the up/down buttons to adjust speed of manual testing the actuators (DIP 3&4 set to ON position)
+
+
 -- enc_Thanos4U_2560_4dof_v1_01_fix5.zip 
 --------------------------------------------------
 - Rewrite of the servo control engine for smoother and accurate change of direction.

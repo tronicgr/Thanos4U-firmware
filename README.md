@@ -8,7 +8,8 @@ https://github.com/tronicgr/Thanos4U-firmware/tree/main/Latest_Firmware
 
 -
 
-### Check out this guide: 
+### Check out this guides: 
+https://simracingstudio.freshdesk.com/support/solutions/articles/35000227042-thanos4u-setup-guide
 https://www.simracingstudio.com/forum/motion-profiles-actuator/thanos4u-and-sim-racing-studio-setup-guide
 
 -

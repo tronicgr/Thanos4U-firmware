@@ -1,4 +1,4 @@
-Latest firmware
+Latest firmware:
 
 
 -- enc_Thanos4U_2560_4dof_v1_01_fix6.zip 

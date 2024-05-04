@@ -1,5 +1,8 @@
 Latest firmware:
 
+-- enc_Thanos4U_2560_4dof_v1_02_fix8.zip 
+--------------------------------------------------
+- Added updated support for Config tool up to 500mm stroke and other fixes
 
 -- enc_Thanos4U_2560_4dof_v1_01_fix6.zip 
 --------------------------------------------------

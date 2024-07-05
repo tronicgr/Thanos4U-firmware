@@ -2,7 +2,7 @@ Latest firmware:
 
 -- enc_Thanos4U_2560_SH_4dof_v1_02_fix9.zip - 
 --------------------------------------------------
---- - Simhub integration release
+--- Simhub integration release
 - Improved Power Saving function that can
 - 1. Power OFF and ON Vertical actuators, Power OFF only if parked to 0% 
 - 2. Power OFF and ON Horizontal actuators

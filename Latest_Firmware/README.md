@@ -16,6 +16,8 @@ Latest firmware:
 - The current Config tool will be able to adjust the basic parameters until new one is released to give access to power saving parameters, backtrack options and extra belt tensioner options.
 
 - some Simhub screenshots:
+- .
+  
 ![Alt Text](https://github.com/tronicgr/Thanos4U-firmware/blob/main/Latest_Firmware/media/Thanos4U_SH_screen1.jpg)
 ![Alt Text](https://github.com/tronicgr/Thanos4U-firmware/blob/main/Latest_Firmware/media/Thanos4U_SH_screen2.jpg)
 ![Alt Text](https://github.com/tronicgr/Thanos4U-firmware/blob/main/Latest_Firmware/media/Thanos4U_SH_screen3.jpg)

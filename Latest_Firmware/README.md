@@ -4,8 +4,8 @@ Latest firmware:
 --------------------------------------------------
 --- Simhub integration release
 - Improved Power Saving function that can
-- 1. Power OFF and ON Vertical actuators, Power OFF only if parked to 0% 
-- 2. Power OFF and ON Horizontal actuators
+ 1. Power OFF and ON Vertical actuators, Power OFF only if parked to 0% 
+ 2. Power OFF and ON Horizontal actuators
 
 - Added Option to adjust Backtrack of the motor upon calibration from home position. Allows to set the backtrack small enough to avoid having drops when power is turned off.
 - Added option to skip Standby state and move the actuators directly to Park position upon finishing the motion tasks.

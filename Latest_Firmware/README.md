@@ -3,8 +3,8 @@ Latest firmware:
 -- enc_Thanos4U_2560_SH_4dof_v1_02_fix9-4.zip - 
 --------------------------------------------------
 -
---- fixes for v1_02 fix9-4     5/18/2025
-- fixed power off-on with recalibration for vertical actuators
+--- Fixes for v1_02 fix9-4     5/18/2025
+- Fixed power off-on with recalibration for vertical actuators
 - Restoring defaults with DIP switch1 to ON (Secondary role), sets Autopark to 50% for the actuators
 - Horizontal actuators calibration sequence has been updated, to non blocking, to remedy for power spikes due to torque
 -

@@ -5,6 +5,8 @@ Firmware and utilities regarding the Thanos4U controller
 
 ### Find latest firmware and instructions
 https://github.com/tronicgr/Thanos4U-firmware/tree/main/Latest_Firmware
+Firmware Update procedure video for the Thanos4U controller:
+https://www.youtube.com/watch?v=4abzyBdgQZI
 
 -
 

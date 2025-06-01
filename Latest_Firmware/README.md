@@ -52,8 +52,8 @@ Latest firmware:
 ### AVRUBD utility preset for Thanos4U controllers:
 https://github.com/tronicgr/Thanos4U-firmware/blob/main/Latest_Firmware/Thanos4U_Firmware_update_util_AVRUBD_preset.zip
 
-### Firmware Update procedure video
-https://www.youtube.com/watch?v=KmiACK7IFGs
+### Firmware Update procedure video for the Thanos4U controller
+https://www.youtube.com/watch?v=4abzyBdgQZI
 
 ### INPORTANT notice:
 - After loading new firmware, please hold down the "UP" button on the panel and press and release the "RESET" button on the controller to restore default parameters. The Blue LED next to the USB connector, should blink 10 times to indicate successful restoration.

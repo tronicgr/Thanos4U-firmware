@@ -1,9 +1,10 @@
 Latest firmware:
 
--- enc_Thanos4U_2560_SH_4dof_v1_02_fix9-4_NC.zip - 
+-- enc_Thanos4U_2560_SH_4dof_v1_02_fix9-5_NC.zip - 
 --------------------------------------------------
 -
---- Quick Fixes for v1_02 fix9-4-NC     6/4/2025
+- fixes for v1_02 fix9 -5     6/18/2025
+- Added button combination for 50mm actuators preset (Both UP/DOWN buttons + reset)
 - Added definition of estop NC or NO level based on the position of DIP3 switch on power up.
 -
 -
